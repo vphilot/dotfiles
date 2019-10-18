@@ -11,3 +11,5 @@ alias profile="open ~/.bash_profile"
 
 alias ps="open /Applications/Adobe\ Photoshop\ CC\ 2019/Adobe\ Photoshop\ CC\ 2019.app"
 alias ai="open /Applications/Adobe\ Illustrator\ CC\ 2019/Adobe\ Illustrator.app"
+
+alias im="mogrify -strip -interlace Plane -quality 60%  -colorspace RGB *.jpg"
