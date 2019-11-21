@@ -9,7 +9,7 @@ alias cs="open 'smb://hosdsrv01/CreativeStudio' "
 
 alias profile="open ~/.bash_profile"
 
-alias ps="open /Applications/Adobe\ Photoshop\ CC\ 2019/Adobe\ Photoshop\ CC\ 2019.app"
-alias ai="open /Applications/Adobe\ Illustrator\ CC\ 2019/Adobe\ Illustrator.app"
+alias ps="open /Applications/Adobe\ Photoshop\ 2020/Adobe\ Photoshop\ 2020.app"
+alias ai="open /Applications/Adobe\ Illustrator\ 2020/Adobe\ Illustrator.app"
 
 alias im="mogrify -strip -interlace Plane -quality 60%  -colorspace RGB *.jpg"
